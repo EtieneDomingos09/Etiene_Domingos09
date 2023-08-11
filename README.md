@@ -27,6 +27,6 @@
   <a href="https://instagram.com/etiene_daniel09" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatoraetienedaniel32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/etiene-daniel-5a0019284" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://www.web.whatsapp.com"target="_blank"><img src="https://img.shields.io/badge/WhatsApp-952194070?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href = "https://web.whatsapp.com"target="_blank"><img src="https://img.shields.io/badge/WhatsApp-952194070?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   
 </div>
